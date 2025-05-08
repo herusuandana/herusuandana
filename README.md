@@ -18,7 +18,7 @@ Saya adalah seorang **Fullstack Web Developer** yang fokus membangun aplikasi we
 
 🗂️ **Heru Pedia**  
 Platform web berbasis CodeIgniter 3.1.13 yang dirancang untuk menyajikan konten informatif, dengan struktur yang efisien dan fitur dinamis.  
-🔗 [Kunjungi (jika sudah online)](https://herupedia.id)
+🔗 [Kunjungi](https://herupedia.id)
 
 ---
 
